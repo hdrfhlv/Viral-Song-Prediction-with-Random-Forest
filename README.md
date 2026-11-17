@@ -56,9 +56,9 @@ Industri musik terus mencari cara untuk memahami apa yang membuat sebuah lagu me
 
 | Model | Accuracy | Precision (viral) | Recall (viral) | F1 (viral) | AUC |
 |---|---|---|---|---|---|
-| Baseline (kelas mayoritas) | | | | | |
-| Decision Tree | | | | | |
-| Random Forest (default) | | | | | |
+| Baseline (kelas mayoritas) | 0.6395 | | | | |
+| Decision Tree | 0.6475 | | | | |
+| Random Forest (default) | 0.7255 | | | | |
 | Random Forest (tuned) | | | | | |
 
 **Temuan utama:**
